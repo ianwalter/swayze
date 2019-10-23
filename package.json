@@ -1,6 +1,6 @@
 {
     "name": "swayze",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
+    "description": "A Ghost theme based on Casper but with better moves",
     "demo": "https://ianwalter.dev",
     "version": "0.0.1",
     "engines": {
