@@ -60,8 +60,3 @@ $ yarn zip
 Casper uses inline SVG icons, included via Handlebars partials. You can find all icons inside `/partials/icons`. To use an icon just include the name of the relevant file, eg. To include the SVG icon in `/partials/icons/rss.hbs` - use `{{> "icons/rss"}}`.
 
 You can add your own SVG icons in the same manner.
-
-
-# Copyright & License
-
-Copyright (c) 2013-2019 Ghost Foundation - Released under the [MIT license](LICENSE).
