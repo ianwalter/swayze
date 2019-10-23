@@ -16,7 +16,7 @@ jobs:
       - name: Test
         run: yarn test
       - name: Install Zip
-        run: apt-get update && apt-get install zip
+        run: apt-get update && apt-get install -y zip
       - name: Deploy
         uses: TryGhost/action-deploy-theme@v1.2.0
         with:
