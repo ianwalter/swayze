@@ -1956,11 +1956,12 @@ Usage (In Ghost editor):
 
 /* keep existing <pre> styles for code cards with captions */
 .kg-code-card {
-    min-width: 100%;
+  font-size: 0.75em;
+  width: 100%;
 }
 
 .kg-code-card pre {
-    margin: 0;
+  margin: 0;
 }
 
 .kg-bookmark-card {
