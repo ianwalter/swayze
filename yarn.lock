@@ -1896,10 +1896,10 @@ graceful-fs@^4.0.0, graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.6,
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.2.tgz#6f0952605d0140c1cfdb138ed005775b92d67b02"
   integrity sha512-IItsdsea19BoLC7ELy13q1iJFNmd7ofZH5+X/pJr90/nRoPEX0DJo1dHDbgtYWOhJhcCgMDTOw84RZ72q6lB+Q==
 
-gscan@3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/gscan/-/gscan-3.2.1.tgz#36836ae0b7efc26e9a3196e0511efb470b029b1c"
-  integrity sha512-nk0J8I2eYRMNRH5uPACahS3iRn4GfXS/qLEewsxCfLa1UZYRnQc0l/bMVELCc7VU4qOwFXkSKHTprurhhPTk4A==
+gscan@3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/gscan/-/gscan-3.2.2.tgz#45aa4fc54a4734ecb4f63bbdfa4e6c9f416f4bda"
+  integrity sha512-1zedy3QoY6FXx8hXnAwPtFr8638Li6CrZEksmjAAiIWk9x1tG6aHtjICGvidX/4/agw+oft8O+ucq4QVCPuH2A==
   dependencies:
     "@tryghost/extract-zip" "1.6.6"
     "@tryghost/pretty-cli" "1.2.2"
